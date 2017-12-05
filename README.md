@@ -3,3 +3,9 @@
 ## Language
 
 Go
+
+## Excution
+
+```
+go run main.go
+```
